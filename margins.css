@@ -1,0 +1,30 @@
+.image{
+    border: 5px solid black;
+    border-radius: 50%;
+
+    margin-left:auto;
+    margin-right:auto;
+    z-index:1;
+}
+
+span{
+    color:yellow;
+}
+
+#text{
+    border:5px solid black;
+    border-radius: 5px;
+    background-color:rgb(220,108,94);
+    text-align:center;
+    padding: 50px 100px 50px 100px;
+    color:darkred;
+    display: block;
+    margin: -150px 150px 10px 150px;
+    padding: 200px;
+    z-index:0;
+
+}
+.div{
+    text-align:center;
+
+}
